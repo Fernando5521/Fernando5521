@@ -39,5 +39,6 @@
 ### 📈 GitHub 活動
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chillyen&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chillyen&layout=compact&theme=tokyonight" />
 </p>
