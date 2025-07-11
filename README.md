@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chill Yen</h1>
-<h3 align="center">A Cybersecurity & DFIR Enthusiast from Taiwan</h3>
+<h3 align="center">A Cybersecurity & DFIR </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chillyen&label=Profile%20views&color=0e75b6&style=flat" alt="chillyen" />
@@ -7,20 +7,18 @@
 
 ---
 
-### 🧠 關於我
-- 🔭 我目前專注於：紅隊滲透測試、暗網情資分析、IPFS 匿名架構  
-- 🧰 我的主力技術：Python / PowerShell / Bash / DFIR 工具集
-- 💬 歡迎討論資安、逆向、攻防演練等議題
-- 📫 聯絡方式：`yourmail@example.com`
-- 🌱 我最近在學：Rust + 自動化獵捕工具開發
+### 🧭 關於我
 
+- 🛡️ 專注於 **數位鑑識 (DFIR)**、**惡意程式分析 (Malware Analysis)**、及**事件調查**
+- 🧪 熱衷研究惡意樣本行為、逆向工程技巧與攻防實戰案例
+- 🧰 熟悉工具：Volatility, IDA Pro, YARA, Wireshark 等
+- 🌱 正在深入學習 Windows internals、kernel debugging 與自動化分析框架開發
 ---
 ### 🛠️ 技術技能
 
 ```yaml
 Languages:
   - Python
-  - Go
   - Bash
   - PowerShell
   - JavaScript
@@ -30,10 +28,9 @@ Security Tools:
   - Wireshark
   - Volatility
   - IDA Pro
-  - Ghidra
   - Splunk, ELK, YARA
 
 Cloud & Infra:
   - Docker, Nginx
-  - Kali Linux, ParrotOS
+  - Kali Linux
   - Azure & AWS basics
