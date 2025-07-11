@@ -7,7 +7,7 @@
 [✔] Username        : chillyen
 [✔] Specialty       : DFIR | Malware Analysis | Threat Hunting
 [✔] Language        : Python (Automated Scripting) | Bash | PowerShell
-[✔] Tools Familiar  : Volatility | Autopsy | Sysinternals | IDA Pro | Sandbox
+[✔] Tools Familiar  : Volatility | Autospy | Sysinternals | IDA Pro | Sandbox
 [✔] Focus           : Windows Forensic, Reverse Engineering, Cloud (GCP, Azure)
 [✔] Email           : fernando5521@anglernook.com
 ┌───────────────────────────────────────────────────────────┐
