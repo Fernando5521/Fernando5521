@@ -14,4 +14,4 @@
 │ 🔧 SYSTEM STATUS                                         │
 └───────────────────────────────────────────────────────────┘
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chillyen&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chillyen&show_icons=true&theme=merko&count_private=true)
