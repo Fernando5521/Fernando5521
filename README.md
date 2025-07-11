@@ -11,4 +11,6 @@
 | **Focus**     | Windows Forensics • Reverse Engineering • Cloud (GCP, Azure)          |
 | **Contact**   | [fernando5521@anglernook.com](mailto:fernando5521@anglernook.com)     |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chillyen&show_icons=true&theme=merko&count_private=true)
+<p align="left">
+  <img src="https://getusetprofile.vercel.app/api?username=Fernando5521&theme=vue-dark&show_icons=true&count_private=true&hide_title=true" />
+</p>
