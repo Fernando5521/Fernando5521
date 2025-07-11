@@ -1,6 +1,6 @@
 ```bash
 ┌───────────────────────────────────────────────────────────┐
-│ 👨‍💻  WELCOME TO CHILLYEN                                   │
+│ 👨‍💻  WELCOME TO CHILLYEN                                  │
 │ 🛡️  Digital Forensics & Malware Analyst Terminal         │
 └───────────────────────────────────────────────────────────┘
 [~] Loading profile...
